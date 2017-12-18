@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.IO;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace DataWAshingText
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            string cwd      = System.AppDomain.CurrentDomain.BaseDirectory;
+            string file     = cwd + "\\data\\DM Database V101 Prospects______QL_PROSPECT.txt";
+            string sup      = cwd + "\\SUPRESSION_FILE_26_04-16.txt";
+            string output   = cwd + "\\output\\ DM Database V101 Prospects______QL_PROSPECT__tab1.txt";
+
+
+            var lines = File.ReadLines(file);
+
+
+            using (var tw = new StreamWriter(file, false))
+            {
+                foreach (var line in lines)
+                {
+                    string[] cline = line.Split('\t');
+
+
+                }
+            }
+        }
+    }
+}

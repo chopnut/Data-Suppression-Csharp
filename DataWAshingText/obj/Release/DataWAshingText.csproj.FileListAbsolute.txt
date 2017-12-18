@@ -1,0 +1,13 @@
+c:\users\ernani.danting\source\repos\DataWAshingText\DataWAshingText\bin\Release\DataWAshingText.exe.config
+c:\users\ernani.danting\source\repos\DataWAshingText\DataWAshingText\bin\Release\DataWAshingText.exe
+c:\users\ernani.danting\source\repos\DataWAshingText\DataWAshingText\bin\Release\DataWAshingText.pdb
+c:\users\ernani.danting\source\repos\DataWAshingText\DataWAshingText\obj\Release\DataWAshingText.csprojResolveAssemblyReference.cache
+c:\users\ernani.danting\source\repos\DataWAshingText\DataWAshingText\obj\Release\DataWAshingText.csproj.CoreCompileInputs.cache
+c:\users\ernani.danting\source\repos\DataWAshingText\DataWAshingText\obj\Release\DataWAshingText.exe
+c:\users\ernani.danting\source\repos\DataWAshingText\DataWAshingText\obj\Release\DataWAshingText.pdb
+C:\Users\nani\Documents\Visual Studio 2015\Projects\Datawash\DataWAshingText1\DataWAshingText\bin\Release\DataWAshingText.exe.config
+C:\Users\nani\Documents\Visual Studio 2015\Projects\Datawash\DataWAshingText1\DataWAshingText\obj\Release\DataWAshingText.exe
+C:\Users\nani\Documents\Visual Studio 2015\Projects\Datawash\DataWAshingText1\DataWAshingText\obj\Release\DataWAshingText.pdb
+C:\Users\nani\Documents\Visual Studio 2015\Projects\Datawash\DataWAshingText1\DataWAshingText\bin\Release\DataWAshingText.exe
+C:\Users\nani\Documents\Visual Studio 2015\Projects\Datawash\DataWAshingText1\DataWAshingText\bin\Release\DataWAshingText.pdb
+C:\Users\nani\Documents\Visual Studio 2015\Projects\Datawash\DataWAshingText1\DataWAshingText\obj\Release\DataWAshingText.csprojResolveAssemblyReference.cache
